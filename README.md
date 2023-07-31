@@ -1,7 +1,7 @@
 # Digit-Recognition
 This repository contains a Digit Recognizer project using PyTorch. The goal is to build a neural network model that can accurately recognize handwritten digits from 0 to 9.
 
-##Methodology
+## Methodology
 - Importing Required Libraries: The project imports necessary libraries for deep learning and visualization.
 
 - Extract Data from MNIST Dataset: Data is extracted from the MNIST dataset containing images of handwritten digits.
@@ -18,7 +18,7 @@ This repository contains a Digit Recognizer project using PyTorch. The goal is t
 
 - Calculate Accuracy and Precision: The model's performance is evaluated on the test set, and accuracy and precision are calculated for evaluation.
 
-##Requirements
+## Requirements
 To run the code, you need Python 3.x with the following dependencies:
 
 - PyTorch
